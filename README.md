@@ -8,6 +8,8 @@ The main motive of this project is to port the PySpark application for finding T
 
 Softwares Used: Docker, Kubernetes
 
+IDE Used: Jupyter Notebook
+
 Dataset Used: Wikipedia Articles
 
 Description about the files:
