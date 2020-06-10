@@ -2,7 +2,7 @@
 
 This project was developed as part of my Masters course study in Cloud Computing and Distributed Systems.
 
-Contributions: Prudhviraj Sheela, Nandhini Veluswamy, Fei Liang 
+Authors: Prudhviraj Sheela, Nandhini Veluswamy, Fei Liang 
 
 The main motive of this project is to port the PySpark application for finding Term Frequency (TF) to Kubernetes through the concept of containerization using Docker.
 
